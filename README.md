@@ -52,3 +52,24 @@
 
 
 
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_4/01/index.go) | ![](./img/go.png) |
+| [2. Валидатор скобочной последовательности](./contest_4/02/index.cpp) |  ![](./img/cpp.png) |
+| [3. Титаник](./contest_4/03/index.cpp) |  ![](./img/cpp.png) |
+| [4. Титаник](./contest_4/04/index.go) |  ![](./img/go.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/1/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_5/01/index.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_5/02/index.cpp) |  ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_5/04/index.cpp) |  ![](./img/cpp.png) |
+| [6. Get a cat](./contest_5/06/index.go) |  ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_5/06/index.go) |  ![](./img/go.png) |
+
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_7/01/index.cpp) | ![](./img/cpp.png) |
+
+
