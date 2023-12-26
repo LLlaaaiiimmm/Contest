@@ -72,4 +72,14 @@
 | --- | :-: |
 | [1. Класс. RunnableСlock](./contest_7/01/index.cpp) | ![](./img/cpp.png) |
 
-
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/1/) |  |
+| --- | :-: |
+| [1. Никаких секретов](./contest_8/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_8/02/main.cpp) | ![](./img/cpp.png) |
+| [4. 2D массив + функции](./contest_8/04/main.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_8/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_8/06/main.cpp) | ![](./img/cpp.png) |
+| [7. Адаптер функций](./contest_8/07/main.cpp) | ![](./img/cpp.png) |
+| [9. Композит](./contest_8/09/main.cpp) | ![](./img/cpp.png) |
+| [10. Какой тип](./contest_8/10/main.go) | ![](./img/go.png) |
+| [11. Класс. Матрица](./contest_8/11/main.go) | ![](./img/go.png) |
